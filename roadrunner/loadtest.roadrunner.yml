@@ -1,0 +1,10 @@
+config:
+  target: "http://localhost:8000"  # Replace this with your server's URL
+  phases:
+    - duration: 60
+      arrivalRate: 10  # Number of virtual users per second during the ramp-up phase
+      name: "Ramp up phase"
+scenarios:
+  - flow:
+      - get:
+          url: "/"  # Replace this with the endpoint you want to load test
