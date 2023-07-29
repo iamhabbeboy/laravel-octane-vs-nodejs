@@ -23,7 +23,7 @@ import axios from 'axios'
 
 Route.get('/external-service', async () => {
   try {
-    const url = 'https://jsonplaceholder.typicode.com/todos'
+    const url = 'http://localhost:3000/data';
     const result = await axios.get(url)
     return result
   } catch (error) {

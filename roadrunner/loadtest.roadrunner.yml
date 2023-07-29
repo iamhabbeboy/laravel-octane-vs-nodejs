@@ -1,5 +1,5 @@
 config:
-  target: "http://localhost:8000"  # Replace this with your server's URL
+  target: "http://localhost:8500"  # Replace this with your server's URL
   phases:
     - duration: 60
       arrivalRate: 10  # Number of virtual users per second during the ramp-up phase

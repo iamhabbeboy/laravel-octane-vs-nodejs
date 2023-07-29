@@ -3,4 +3,4 @@ server:
     command: 'php app.php'
     relay: pipes
 http:
-    address: '0.0.0.0:8000'
+    address: '0.0.0.0:8500'

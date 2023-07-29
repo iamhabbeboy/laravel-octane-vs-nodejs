@@ -22,7 +22,7 @@ use Laravel\Octane\Facades\Octane;
 Octane::route('GET', '/external-service', function () {
     try {
         $client = new GuzzleHttp\Client();
-        $url = 'https://jsonplaceholder.typicode.com/todos';
+        $url = 'http://localhost:3000/data';
         $result = $client->get($url);
         $resp = $result->getBody()->getContents();
         return response()->json(json_decode($resp));
