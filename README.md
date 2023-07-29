@@ -1,2 +1,5 @@
-# laravel-octane-vs-nodejs
-Considering performance analysis of both Laravel Octane(roadrunner, swoole, openswoole) and Nodejs
+# Setup 
+Install artillery using 
+```
+ npm install artillery@latest
+```
