@@ -1,0 +1,175 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.0": 600,
+      "vusers.created": 600,
+      "http.requests": 600,
+      "errors.ETIMEDOUT": 600,
+      "vusers.failed": 600
+    },
+    "rates": {
+      "http.request_rate": 10
+    },
+    "firstCounterAt": 1690592618694,
+    "lastCounterAt": 1690592688606,
+    "firstMetricAt": 1690592618694,
+    "lastMetricAt": 1690592688606,
+    "period": 1690592680000,
+    "summaries": {},
+    "histograms": {}
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.0": 11,
+        "vusers.created": 11,
+        "http.requests": 11
+      },
+      "rates": {
+        "http.request_rate": 11
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1690592618694,
+      "lastCounterAt": 1690592619694,
+      "firstMetricAt": 1690592618694,
+      "lastMetricAt": 1690592619694,
+      "period": "1690592610000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 100,
+        "vusers.created": 100,
+        "http.requests": 100,
+        "errors.ETIMEDOUT": 11,
+        "vusers.failed": 11
+      },
+      "rates": {
+        "http.request_rate": 10
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1690592620193,
+      "lastCounterAt": 1690592629694,
+      "firstMetricAt": 1690592620193,
+      "lastMetricAt": 1690592629694,
+      "period": "1690592620000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 100,
+        "vusers.created": 100,
+        "http.requests": 100,
+        "errors.ETIMEDOUT": 100,
+        "vusers.failed": 100
+      },
+      "rates": {
+        "http.request_rate": 10
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1690592630193,
+      "lastCounterAt": 1690592639694,
+      "firstMetricAt": 1690592630193,
+      "lastMetricAt": 1690592639694,
+      "period": "1690592630000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "errors.ETIMEDOUT": 100,
+        "vusers.failed": 100,
+        "vusers.created_by_name.0": 100,
+        "vusers.created": 100,
+        "http.requests": 100
+      },
+      "rates": {
+        "http.request_rate": 10
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1690592640193,
+      "lastCounterAt": 1690592649694,
+      "firstMetricAt": 1690592640193,
+      "lastMetricAt": 1690592649694,
+      "period": "1690592640000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "errors.ETIMEDOUT": 100,
+        "vusers.failed": 100,
+        "vusers.created_by_name.0": 100,
+        "vusers.created": 100,
+        "http.requests": 100
+      },
+      "rates": {
+        "http.request_rate": 10
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1690592650193,
+      "lastCounterAt": 1690592659694,
+      "firstMetricAt": 1690592650193,
+      "lastMetricAt": 1690592659694,
+      "period": "1690592650000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "errors.ETIMEDOUT": 100,
+        "vusers.failed": 100,
+        "vusers.created_by_name.0": 100,
+        "vusers.created": 100,
+        "http.requests": 100
+      },
+      "rates": {
+        "http.request_rate": 10
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1690592660193,
+      "lastCounterAt": 1690592669694,
+      "firstMetricAt": 1690592660193,
+      "lastMetricAt": 1690592669694,
+      "period": "1690592660000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "errors.ETIMEDOUT": 100,
+        "vusers.failed": 100,
+        "vusers.created_by_name.0": 89,
+        "vusers.created": 89,
+        "http.requests": 89
+      },
+      "rates": {
+        "http.request_rate": 10
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1690592670193,
+      "lastCounterAt": 1690592679695,
+      "firstMetricAt": 1690592670193,
+      "lastMetricAt": 1690592679695,
+      "period": "1690592670000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "errors.ETIMEDOUT": 89,
+        "vusers.failed": 89
+      },
+      "rates": {},
+      "firstCounterAt": 1690592680194,
+      "lastCounterAt": 1690592688606,
+      "firstMetricAt": 1690592680194,
+      "lastMetricAt": 1690592688606,
+      "period": "1690592680000",
+      "summaries": {},
+      "histograms": {}
+    }
+  ]
+}
